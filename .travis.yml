@@ -1,6 +1,10 @@
 language: node_js
 node_js:
   - "iojs"
+<<<<<<< HEAD
   - "7"
   - "6"
   - "5"
+=======
+  - "6"
+>>>>>>> d6adc08a73cc190382a97b9a877f9e2bb605928f
